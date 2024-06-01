@@ -1,5 +1,3 @@
-.
-
 ## Criar Banco de dados
 
 ```
