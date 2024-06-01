@@ -1,0 +1,16 @@
+br/com/biblioteca/BookSearch.class
+br/com/biblioteca/LogUtil.class
+br/com/biblioteca/ExceptionHandling.class
+br/com/biblioteca/Categoria.class
+br/com/biblioteca/Livro.class
+br/com/biblioteca/Categoria$1.class
+br/com/biblioteca/LibraryManagementSystem.class
+br/com/biblioteca/LivroRepository.class
+br/com/biblioteca/Usuario.class
+br/com/biblioteca/UsuarioRepository.class
+br/com/biblioteca/SerializationUtil.class
+br/com/biblioteca/EmprestimoRepository.class
+br/com/biblioteca/DatabaseConnection.class
+br/com/biblioteca/CrudRepository.class
+br/com/biblioteca/Emprestimo.class
+br/com/biblioteca/AbstractRepository.class
