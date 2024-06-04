@@ -1,3 +1,8 @@
+# Alunos(as)
+- **Ana Carolina**
+- **Gabriel Lemos**
+- **Stefani**
+
 ## Criar Banco de dados
 
 ```
